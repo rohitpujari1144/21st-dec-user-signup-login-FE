@@ -1,1 +1,1 @@
-# 21st-dec-user-signup-login-FE
+# Registration -> Login -> Home
