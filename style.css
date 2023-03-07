@@ -1,0 +1,73 @@
+/* login style start */
+.loginContainer {
+    max-width: 500px;
+    border: 2px solid rgb(73, 87, 88);
+    border-radius: 7px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.login {
+    text-align: center;
+    font-family: Trebuchet MS;
+}
+
+.newUser {
+    text-align: center;
+}
+
+.registerHere {
+    text-decoration: none;
+}
+
+.registerHere:hover {
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+/* login style end */
+
+/* signup style start */
+
+.signupContainer {
+    max-width: 500px;
+    border: 2px solid grey;
+    border-radius: 7px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.signup {
+    text-align: center;
+    font-family: Trebuchet MS;
+}
+
+.loginHereOne {
+    text-align: center;
+}
+
+.loginHere {
+    text-decoration: none;
+}
+
+.loginHere:hover {
+    text-decoration: underline;
+    text-decoration-color: blue;
+}
+
+/* signup style end */
+
+.welcome{
+    font-family: Trebuchet MS;
+}
+
+.welcomeMsgDiv{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
